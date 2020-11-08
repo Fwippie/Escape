@@ -1215,3 +1215,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.08-22.40.01:345][849]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/ThirdPersonExampleMap_BuiltData428997B34C0C646A4E8420AB277049E4.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2020.11.08-22.42.36:263][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.11.08-22.44.59:392][ 98]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.11.08-22.50.01:215][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.11.08-22.50.01:215][966]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.047
+[2020.11.08-22.50.01:218][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterBundle/ModularSci_Comm/Materials/M_Base_Pipes] ([1] browsable assets)...
+[2020.11.08-22.50.01:239][966]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterBundle/ModularSci_Comm/Materials/M_Base_Pipes.M_Base_Pipes]
+[2020.11.08-22.50.01:239][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterBundle/ModularSci_Comm/Materials/M_Base_Pipes]
+[2020.11.08-22.50.01:285][966]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/M_Base_Pipes_Auto155975E7E49B0B31F11BCFEA79074EE40.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/Autosaves/Game/StarterBundle/ModularSci_Comm/Materials/M_Base_Pipes_Auto1.uasset'
+[2020.11.08-22.50.01:286][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterBundle/ModularSci_Comm/Materials/MI_Pipes_B_Light] ([1] browsable assets)...
+[2020.11.08-22.50.01:305][966]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/StarterBundle/ModularSci_Comm/Materials/MI_Pipes_B_Light.MI_Pipes_B_Light]
+[2020.11.08-22.50.01:305][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterBundle/ModularSci_Comm/Materials/MI_Pipes_B_Light]
+[2020.11.08-22.50.01:341][966]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/MI_Pipes_B_Light_Auto14A047B9144C269F296E69E968444AF1B.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/Autosaves/Game/StarterBundle/ModularSci_Comm/Materials/MI_Pipes_B_Light_Auto1.uasset'
+[2020.11.08-22.50.01:342][966]LogFileHelpers: Auto-saving content packages took 0.125
