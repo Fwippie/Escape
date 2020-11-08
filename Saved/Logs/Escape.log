@@ -1214,3 +1214,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.08-22.40.01:201][849]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/ThirdPersonExampleMap78BFA516427DE6DA154EBFBC22326656.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2020.11.08-22.40.01:345][849]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/ThirdPersonExampleMap_BuiltData428997B34C0C646A4E8420AB277049E4.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2020.11.08-22.42.36:263][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.08-22.44.59:392][ 98]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
