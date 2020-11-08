@@ -1226,3 +1226,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.08-22.50.01:305][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterBundle/ModularSci_Comm/Materials/MI_Pipes_B_Light]
 [2020.11.08-22.50.01:341][966]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/MI_Pipes_B_Light_Auto14A047B9144C269F296E69E968444AF1B.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/Autosaves/Game/StarterBundle/ModularSci_Comm/Materials/MI_Pipes_B_Light_Auto1.uasset'
 [2020.11.08-22.50.01:342][966]LogFileHelpers: Auto-saving content packages took 0.125
+[2020.11.08-22.51.58:309][378]LogSlate: Window 'LaunchpadBP2' being destroyed
+[2020.11.08-22.51.58:310][378]LogSlate: Window 'LaunchpadBP2' being destroyed
