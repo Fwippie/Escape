@@ -1155,3 +1155,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.11-20.00.16:840][ 92]EditorErrors: New page: Save Output
 [2020.11.11-20.00.16:840][ 92]EditorErrors: Warning: Error saving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2020.11.11-20.00.18:297][157]LogSlate: Window 'Message Log' being destroyed
+[2020.11.11-20.00.44:175][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.11-20.00.44:227][376]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/ThirdPersonExampleMap_Auto125D0767740BC7816D8C4908507B3F709.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.11.11-20.00.44:229][376]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.061
+[2020.11.11-20.00.44:229][376]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.061
+[2020.11.11-20.00.56:988][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.11-20.00.56:990][956]LogMetaData: Removing '/Game/ThirdPersonBP/Maps/Escape.Escape_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2020.11.11-20.00.56:990][956]LogMetaData: Removing '/Game/ThirdPersonBP/Maps/Escape.SKEL_Escape_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2020.11.11-20.00.57:008][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Escape_BuiltData" FILE="../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset" SILENT=true
+[2020.11.11-20.00.57:435][956]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/Escape_BuiltData6E79837A47970E79495B4880984A328F.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.11.11-20.00.57:445][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.11-20.00.57:506][956]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/Escape7974F9294E8B9F897DE2339E5161BD3C.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.11.11-20.00.57:531][956]LogFileHelpers: Saving map 'Escape' took 0.094
+[2020.11.11-20.00.57:749][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.11-20.00.57:757][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.11.11-20.00.57:771][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.11.11-20.00.57:779][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2020.11.11-20.00.57:780][956]LogFileManager: Warning: Error deleting file: ../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap (Error Code 32)
+[2020.11.11-20.00.57:780][956]LogFileManager: Warning: Error deleting file: ../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset (Error Code 32)
+[2020.11.11-20.00.57:900][956]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.11-20.00.57:900][956]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.11.11-20.00.57:900][956]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.11.11-20.01.02:688][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2020.11.11-20.01.02:750][180]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/Escape89636B16460444FE1C084584B7EC2F4B.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.11.11-20.01.02:775][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Escape_BuiltData" FILE="../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset" SILENT=true
+[2020.11.11-20.01.03:203][180]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/Escape_BuiltDataE28B17EF4BECADDF9720B589ADB8EA0B.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.11.11-20.01.03:212][180]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.11-20.01.03:212][180]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.11.11-20.01.03:212][180]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
