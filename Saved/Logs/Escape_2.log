@@ -1183,3 +1183,244 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.11-20.01.03:212][180]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.11-20.01.03:212][180]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
 [2020.11.11-20.01.03:212][180]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.11.11-20.01.40:382][989]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2020.11.11-20.01.42:142][ 96]Cmd: EDIT COPY
+[2020.11.11-20.01.42:395][108]Cmd: EDIT PASTE
+[2020.11.11-20.01.54:057][844]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2020.11.11-20.01.54:787][896]Cmd: DELETE
+[2020.11.11-20.01.54:787][896]Cmd: ACTOR DELETE
+[2020.11.11-20.01.54:792][896]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.01.54:802][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.11-20.01.54:805][896]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.11.11-20.01.56:100][ 17]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight29)
+[2020.11.11-20.02.03:736][581]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight)
+[2020.11.11-20.02.04:482][633]Cmd: DELETE
+[2020.11.11-20.02.04:482][633]Cmd: ACTOR DELETE
+[2020.11.11-20.02.04:487][633]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.02.04:497][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.11.11-20.02.04:499][633]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.11.11-20.02.06:012][768]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight29)
+[2020.11.11-20.02.06:899][836]Cmd: EDIT COPY
+[2020.11.11-20.02.07:146][855]Cmd: EDIT PASTE
+[2020.11.11-20.02.11:006][120]Cmd: EDIT COPY
+[2020.11.11-20.02.11:389][145]Cmd: EDIT PASTE
+[2020.11.11-20.02.16:347][457]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight2)
+[2020.11.11-20.02.17:166][509]Cmd: DELETE
+[2020.11.11-20.02.17:166][509]Cmd: ACTOR DELETE
+[2020.11.11-20.02.17:171][509]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.02.17:181][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.11.11-20.02.17:183][509]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.11.11-20.02.20:036][694]Cmd: EDIT PASTE
+[2020.11.11-20.02.24:405][951]Cmd: EDIT COPY
+[2020.11.11-20.02.24:664][966]Cmd: EDIT PASTE
+[2020.11.11-20.02.28:797][203]Cmd: EDIT COPY
+[2020.11.11-20.02.29:035][216]Cmd: EDIT PASTE
+[2020.11.11-20.02.31:633][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall42)
+[2020.11.11-20.02.32:628][395]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight117)
+[2020.11.11-20.02.34:954][515]Cmd: EDIT COPY
+[2020.11.11-20.02.35:186][527]Cmd: EDIT PASTE
+[2020.11.11-20.02.38:176][683]Cmd: TRANSACTION UNDO
+[2020.11.11-20.02.38:176][683]LogEditorTransaction: Undo Move Actors
+[2020.11.11-20.02.44:314][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2020.11.11-20.02.46:288][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2020.11.11-20.02.46:837][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2020.11.11-20.02.47:261][159]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight4)
+[2020.11.11-20.02.48:149][211]Cmd: DELETE
+[2020.11.11-20.02.48:149][211]Cmd: ACTOR DELETE
+[2020.11.11-20.02.48:154][211]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.02.48:164][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.11.11-20.02.48:167][211]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.11.11-20.02.51:880][456]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight5)
+[2020.11.11-20.02.52:529][502]Cmd: DELETE
+[2020.11.11-20.02.52:529][502]Cmd: ACTOR DELETE
+[2020.11.11-20.02.52:533][502]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.02.52:543][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.11.11-20.02.52:545][502]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.11-20.02.54:075][634]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight118)
+[2020.11.11-20.02.54:851][691]Cmd: EDIT COPY
+[2020.11.11-20.02.55:068][707]Cmd: EDIT PASTE
+[2020.11.11-20.03.01:772][176]Cmd: EDIT PASTE
+[2020.11.11-20.03.06:146][438]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight6)
+[2020.11.11-20.03.06:921][484]Cmd: DELETE
+[2020.11.11-20.03.06:921][484]Cmd: ACTOR DELETE
+[2020.11.11-20.03.06:925][484]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.03.06:934][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.11.11-20.03.06:937][484]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.11-20.03.08:042][560]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight120)
+[2020.11.11-20.03.15:856][985]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight9)
+[2020.11.11-20.03.16:619][ 27]Cmd: DELETE
+[2020.11.11-20.03.16:619][ 27]Cmd: ACTOR DELETE
+[2020.11.11-20.03.16:623][ 27]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.03.16:633][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.11-20.03.16:635][ 27]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.11-20.03.22:568][442]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight120)
+[2020.11.11-20.03.23:324][480]Cmd: EDIT COPY
+[2020.11.11-20.03.23:515][490]Cmd: EDIT PASTE
+[2020.11.11-20.03.34:086][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall21)
+[2020.11.11-20.03.34:564][ 72]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight10)
+[2020.11.11-20.03.35:265][117]Cmd: DELETE
+[2020.11.11-20.03.35:265][117]Cmd: ACTOR DELETE
+[2020.11.11-20.03.35:269][117]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.03.35:279][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.11-20.03.35:282][117]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.11-20.03.36:310][198]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight121)
+[2020.11.11-20.03.37:009][245]Cmd: EDIT COPY
+[2020.11.11-20.03.37:192][257]Cmd: EDIT PASTE
+[2020.11.11-20.03.41:614][556]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight121)
+[2020.11.11-20.03.45:733][814]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight122)
+[2020.11.11-20.03.46:562][864]Cmd: EDIT COPY
+[2020.11.11-20.03.46:802][879]Cmd: EDIT PASTE
+[2020.11.11-20.03.49:521][ 63]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight11)
+[2020.11.11-20.03.50:125][115]Cmd: DELETE
+[2020.11.11-20.03.50:125][115]Cmd: ACTOR DELETE
+[2020.11.11-20.03.50:128][115]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.03.50:138][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.11.11-20.03.50:141][115]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.11-20.03.54:328][482]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight123)
+[2020.11.11-20.03.54:992][539]Cmd: EDIT COPY
+[2020.11.11-20.03.55:201][557]Cmd: EDIT PASTE
+[2020.11.11-20.04.00:003][911]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight12)
+[2020.11.11-20.04.00:628][956]Cmd: DELETE
+[2020.11.11-20.04.00:628][956]Cmd: ACTOR DELETE
+[2020.11.11-20.04.00:632][956]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.04.00:642][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.11.11-20.04.00:645][956]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.11-20.04.02:774][108]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight124)
+[2020.11.11-20.04.06:741][387]Cmd: EDIT COPY
+[2020.11.11-20.04.07:049][416]Cmd: EDIT PASTE
+[2020.11.11-20.04.11:753][815]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight13)
+[2020.11.11-20.04.12:438][866]Cmd: DELETE
+[2020.11.11-20.04.12:438][866]Cmd: ACTOR DELETE
+[2020.11.11-20.04.12:442][866]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.04.12:452][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.11.11-20.04.12:454][866]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.11-20.04.13:000][913]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight14)
+[2020.11.11-20.04.13:088][917]Cmd: DELETE
+[2020.11.11-20.04.13:088][917]Cmd: ACTOR DELETE
+[2020.11.11-20.04.13:092][917]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.04.13:102][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.11.11-20.04.13:103][917]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.11.11-20.04.15:847][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall13)
+[2020.11.11-20.04.16:616][203]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight15)
+[2020.11.11-20.04.17:432][270]Cmd: DELETE
+[2020.11.11-20.04.17:432][270]Cmd: ACTOR DELETE
+[2020.11.11-20.04.17:436][270]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.04.17:445][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.11.11-20.04.17:447][270]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.11.11-20.04.19:664][479]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight125)
+[2020.11.11-20.04.20:342][531]Cmd: EDIT COPY
+[2020.11.11-20.04.20:621][555]Cmd: EDIT PASTE
+[2020.11.11-20.04.27:891][192]Cmd: EDIT COPY
+[2020.11.11-20.04.28:087][210]Cmd: EDIT PASTE
+[2020.11.11-20.04.33:239][694]Cmd: EDIT COPY
+[2020.11.11-20.04.33:478][716]Cmd: EDIT PASTE
+[2020.11.11-20.04.41:125][297]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight16)
+[2020.11.11-20.04.42:080][345]Cmd: DELETE
+[2020.11.11-20.04.42:080][345]Cmd: ACTOR DELETE
+[2020.11.11-20.04.42:085][345]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.04.42:096][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.11-20.04.42:099][345]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.11.11-20.04.42:947][398]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight17)
+[2020.11.11-20.04.43:037][401]Cmd: DELETE
+[2020.11.11-20.04.43:037][401]Cmd: ACTOR DELETE
+[2020.11.11-20.04.43:040][401]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.04.43:050][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.11-20.04.43:052][401]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.11.11-20.04.46:544][674]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight18)
+[2020.11.11-20.04.47:136][717]Cmd: DELETE
+[2020.11.11-20.04.47:136][717]Cmd: ACTOR DELETE
+[2020.11.11-20.04.47:139][717]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.04.47:149][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.11-20.04.47:151][717]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.11.11-20.04.49:366][922]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight19)
+[2020.11.11-20.04.50:158][998]Cmd: DELETE
+[2020.11.11-20.04.50:158][998]Cmd: ACTOR DELETE
+[2020.11.11-20.04.50:163][998]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.04.50:173][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.11.11-20.04.50:175][998]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.11-20.04.51:183][115]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight20)
+[2020.11.11-20.04.51:327][126]Cmd: DELETE
+[2020.11.11-20.04.51:327][126]Cmd: ACTOR DELETE
+[2020.11.11-20.04.51:331][126]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.04.51:340][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2020.11.11-20.04.51:342][126]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.11.11-20.04.53:767][352]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight127)
+[2020.11.11-20.04.54:495][396]Cmd: EDIT COPY
+[2020.11.11-20.04.54:713][411]Cmd: EDIT PASTE
+[2020.11.11-20.05.03:703][976]Cmd: EDIT COPY
+[2020.11.11-20.05.03:937][992]Cmd: EDIT PASTE
+[2020.11.11-20.05.12:958][528]Cmd: EDIT COPY
+[2020.11.11-20.05.13:158][536]Cmd: EDIT PASTE
+[2020.11.11-20.05.17:803][826]Cmd: EDIT COPY
+[2020.11.11-20.05.18:020][836]Cmd: EDIT PASTE
+[2020.11.11-20.05.21:815][ 96]Cmd: EDIT COPY
+[2020.11.11-20.05.22:030][106]Cmd: EDIT PASTE
+[2020.11.11-20.05.24:969][324]Cmd: EDIT COPY
+[2020.11.11-20.05.25:672][380]Cmd: EDIT PASTE
+[2020.11.11-20.05.34:347][202]Cmd: EDIT COPY
+[2020.11.11-20.05.34:574][228]Cmd: EDIT PASTE
+[2020.11.11-20.05.36:940][500]Cmd: TRANSACTION UNDO
+[2020.11.11-20.05.36:940][500]LogEditorTransaction: Undo Move Actors
+[2020.11.11-20.05.48:098][490]Cmd: EDIT COPY
+[2020.11.11-20.05.48:341][506]Cmd: EDIT PASTE
+[2020.11.11-20.05.52:850][906]Cmd: EDIT COPY
+[2020.11.11-20.05.53:073][920]Cmd: EDIT PASTE
+[2020.11.11-20.05.55:784][191]Cmd: EDIT COPY
+[2020.11.11-20.05.56:014][205]Cmd: EDIT PASTE
+[2020.11.11-20.05.58:318][452]Cmd: EDIT COPY
+[2020.11.11-20.05.58:515][465]Cmd: EDIT PASTE
+[2020.11.11-20.06.03:199][979]Cmd: EDIT COPY
+[2020.11.11-20.06.03:419][993]Cmd: EDIT PASTE
+[2020.11.11-20.06.07:960][495]Cmd: EDIT COPY
+[2020.11.11-20.06.08:167][511]Cmd: EDIT PASTE
+[2020.11.11-20.06.11:423][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.11.11-20.06.11:984][861]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight27)
+[2020.11.11-20.06.12:361][895]Cmd: DELETE
+[2020.11.11-20.06.12:361][895]Cmd: ACTOR DELETE
+[2020.11.11-20.06.12:365][895]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.06.12:376][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.11.11-20.06.12:378][895]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.11.11-20.06.13:117][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.11.11-20.06.13:589][ 22]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight28)
+[2020.11.11-20.06.13:832][ 43]Cmd: DELETE
+[2020.11.11-20.06.13:832][ 43]Cmd: ACTOR DELETE
+[2020.11.11-20.06.13:836][ 43]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.06.13:846][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.11.11-20.06.13:848][ 43]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.11-20.06.14:910][167]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight141)
+[2020.11.11-20.06.17:238][405]Cmd: EDIT COPY
+[2020.11.11-20.06.17:450][426]Cmd: EDIT PASTE
+[2020.11.11-20.06.22:242][891]Cmd: EDIT COPY
+[2020.11.11-20.06.22:459][901]Cmd: EDIT PASTE
+[2020.11.11-20.06.32:875][714]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight24)
+[2020.11.11-20.06.33:183][736]Cmd: DELETE
+[2020.11.11-20.06.33:183][736]Cmd: ACTOR DELETE
+[2020.11.11-20.06.33:187][736]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.06.33:198][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.11.11-20.06.33:200][736]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.11.11-20.06.36:145][983]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight25)
+[2020.11.11-20.06.36:488][  6]Cmd: DELETE
+[2020.11.11-20.06.36:488][  6]Cmd: ACTOR DELETE
+[2020.11.11-20.06.36:492][  6]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.06.36:503][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.11.11-20.06.36:504][  6]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.11-20.06.41:025][389]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight23)
+[2020.11.11-20.06.41:963][486]Cmd: DELETE
+[2020.11.11-20.06.41:963][486]Cmd: ACTOR DELETE
+[2020.11.11-20.06.41:966][486]LogEditorActor: Deleted Actor: RectLight
+[2020.11.11-20.06.41:976][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.11.11-20.06.41:978][486]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.11.11-20.06.48:986][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2020.11.11-20.06.49:048][ 37]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/Escape12CC9CAF4F43B618FA9B5ABF3DBFEF88.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.11.11-20.06.49:076][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Escape_BuiltData" FILE="../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset" SILENT=true
+[2020.11.11-20.06.49:501][ 37]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/Escape_BuiltData9D8A01644FB16C85410FBCB4CE2E1F5C.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.11.11-20.06.49:513][ 37]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.11-20.06.49:513][ 37]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.11.11-20.06.49:513][ 37]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.11.11-20.06.57:543][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.11.11-20.06.57:596][350]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/EscapeD6BEDDBB4EC628D9D5CF629D0F6A2FCD.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.11.11-20.06.57:622][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Escape_BuiltData" FILE="../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset" SILENT=true
+[2020.11.11-20.06.58:038][350]LogSavePackage: Moving '../../../../../../Users/joliver1/Documents/GitHub/Escape/Saved/Escape_BuiltData28CB6BBC4759FD315679E79FB68537B7.tmp' to '../../../../../../Users/joliver1/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.11.11-20.06.58:046][350]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.11-20.06.58:046][350]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.11.11-20.06.58:046][350]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
