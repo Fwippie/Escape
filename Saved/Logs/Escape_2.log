@@ -694,3 +694,56 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.12-22.39.27:578][  0]LogTexture: Display: Building textures: Ch03_1001_Normal (BC5, 4096X4096)
 [2020.11.12-22.39.28:031][  0]LogDerivedDataCache: C:/Users/joliver1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/joliver1/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/0/TEXTURE_564290F8998644E39A2118D5C683187B_BC5_B88117464BFD66E6783BABA13091E3FB___940CA87F8B815E85F1BF53672A9FE855FF5FC6BD.udd.
 [2020.11.12-22.39.28:031][  0]LogSkeletalMesh: Building Skeletal Mesh Michelle...
+[2020.11.12-22.39.29:005][  0]LogDerivedDataCache: C:/Users/joliver1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/joliver1/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_B3DCBE1343A97DD4DE47389EFE262__44B7384BA0747095E2E3CF75B781DEDC7E81EE38.udd.
+[2020.11.12-22.39.29:005][  0]LogSkeletalMesh: Section 0: 16278 vertices, 52 active bones
+[2020.11.12-22.39.29:007][  0]LogSkeletalMesh: Section 0: Material=0, 28106 triangles
+[2020.11.12-22.39.29:049][  0]LogSkeletalMesh: Built Skeletal Mesh [1.02s] /Game/Michelle/Michelle.Michelle
+[2020.11.12-22.39.29:051][  0]LogMaterial: Display: Missing cached shader map for material M_Base_3C, compiling. 
+[2020.11.12-22.39.29:140][  0]LogMaterial: Display: Missing cached shader map for material M_Base_Pipes, compiling. 
+[2020.11.12-22.39.29:181][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.11.12-22.39.29:181][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.11.12-22.39.29:181][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.11.12-22.39.29:181][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.11.12-22.39.29:181][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 4
+[2020.11.12-22.39.29:181][  0]LogMaterial: Display: Missing cached shader map for material Ch03_Body, compiling. 
+[2020.11.12-22.39.29:203][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.11.12-22.39.29:203][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000186EDF24E00), frame # 0
+[2020.11.12-22.39.29:203][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000186EA9B9D00), frame # 0
+[2020.11.12-22.39.29:492][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.12-22.39.29:562][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.11.12-22.39.29:580][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.12-22.39.29:581][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.299ms to complete.
+[2020.11.12-22.39.29:581][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 22.772
+[2020.11.12-22.39.29:585][  0]LogUnrealEdMisc: Total Editor Startup Time, took 193.407
+[2020.11.12-22.39.29:983][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.12-22.39.29:992][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.12-22.39.30:000][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.12-22.39.30:009][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.12-22.39.30:145][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Michelle/Michelle_Run_Anim_mixamo_com.Michelle_Run_Anim_mixamo_com
+[2020.11.12-22.39.30:145][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Michelle/Michelle_Idle.Michelle_Idle
+[2020.11.12-22.39.30:145][  0]LogCollectionManager: Loaded 0 collections in 0.002385 seconds
+[2020.11.12-22.39.30:181][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joliver1/Documents/GitHub/Escape/Saved/Collections/' took 0.00s
+[2020.11.12-22.39.30:181][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joliver1/Documents/GitHub/Escape/Content/Developers/joliver1/Collections/' took 0.00s
+[2020.11.12-22.39.30:181][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joliver1/Documents/GitHub/Escape/Content/Collections/' took 0.00s
+[2020.11.12-22.39.30:181][  0]LogContentBrowser: Native class hierarchy populated in 0.0175 seconds. Added 3427 classes and 821 folders.
+[2020.11.12-22.39.30:184][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.12-22.39.40:516][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.12-22.39.40:518][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.11.12-22.39.40:774][  0]LogSlate: Took 0.211210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.12-22.39.40:863][  0]LogSlate: Took 0.086819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.12-22.39.41:039][  0]LogSlate: Took 0.171113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.12-22.39.41:488][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2020.11.12-22.39.44:365][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 87
+[2020.11.12-22.39.44:365][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.11.12-22.39.44:374][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.12-22.39.44:374][  0]LogLoad: (Engine Initialization) Total time: 208.20 seconds
+[2020.11.12-22.39.44:374][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.12-22.39.44:440][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Michelle/Michelle_Jump.Michelle_Jump
+[2020.11.12-22.39.44:440][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.12-22.39.44:773][  1]LogAssetRegistry: Asset discovery search completed in 96.4144 seconds
+[2020.11.12-22.39.44:782][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.11.12-22.39.45:824][ 34]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 77
+[2020.11.12-22.39.48:389][218]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 67
+[2020.11.12-22.39.48:788][244]LogSlate: Took 0.047184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.12-22.39.48:930][255]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2020.11.12-22.39.50:473][369]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
