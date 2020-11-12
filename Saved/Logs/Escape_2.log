@@ -747,3 +747,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.12-22.39.48:788][244]LogSlate: Took 0.047184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.11.12-22.39.48:930][255]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
 [2020.11.12-22.39.50:473][369]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2020.11.12-22.40.01:483][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2020.11.12-22.40.05:711][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.11.12-22.40.06:085][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.11.12-22.40.06:942][194]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.11.12-22.40.07:879][196]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.11.12-22.40.09:133][196]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.11.12-22.40.10:353][196]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.11.12-22.40.10:748][196]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.11.12-22.40.11:036][196]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.11.12-22.40.11:299][196]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
