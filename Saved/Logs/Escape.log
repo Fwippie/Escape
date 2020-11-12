@@ -6008,3 +6008,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.12-06.07.51:613][181]LogSavePackage: Moving '../../../../../../Users/thecy/Documents/GitHub/Escape/Escape/Saved/HighUp_Auto61E4241FF42139062DA4914837EBB2653.tmp' to '../../../../../../Users/thecy/Documents/GitHub/Escape/Escape/Saved/Autosaves/Game/ThirdPersonBP/Maps/HighUp_Auto6.umap'
 [2020.11.12-06.07.51:616][181]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/HighUp' took 0.075
 [2020.11.12-06.07.51:616][181]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.075
+[2020.11.12-06.17.31:607][ 86]LogTemp: Resetting audio stream to device id 
+[2020.11.12-06.17.31:680][ 86]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.12-06.17.31:681][ 86]LogAudioMixer: Display: 1: FrontRight
+[2020.11.12-06.17.31:681][ 86]LogAudioMixer: Display: 2: FrontCenter
+[2020.11.12-06.17.31:681][ 86]LogAudioMixer: Display: 3: LowFrequency
+[2020.11.12-06.17.31:681][ 86]LogAudioMixer: Display: 4: BackLeft
+[2020.11.12-06.17.31:681][ 86]LogAudioMixer: Display: 5: BackRight
+[2020.11.12-06.17.31:681][ 86]LogAudioMixer: Display: 6: SideLeft
+[2020.11.12-06.17.31:681][ 86]LogAudioMixer: Display: 7: SideRight
+[2020.11.12-21.23.26:655][ 91]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.11.12-21.23.29:320][ 91]LogTemp: Resetting audio stream to device id 
+[2020.11.12-21.23.29:518][ 91]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.12-21.23.29:518][ 91]LogAudioMixer: Display: 1: FrontRight
+[2020.11.12-21.23.29:518][ 91]LogAudioMixer: Display: 2: FrontCenter
+[2020.11.12-21.23.29:519][ 91]LogAudioMixer: Display: 3: LowFrequency
+[2020.11.12-21.23.29:519][ 91]LogAudioMixer: Display: 4: BackLeft
+[2020.11.12-21.23.29:520][ 91]LogAudioMixer: Display: 5: BackRight
+[2020.11.12-21.23.29:521][ 91]LogAudioMixer: Display: 6: SideLeft
+[2020.11.12-21.23.29:521][ 91]LogAudioMixer: Display: 7: SideRight
+[2020.11.12-21.23.30:181][ 92]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.11.12-21.23.30:182][ 92]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.11.12-21.23.30:182][ 92]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.11.12-21.23.30:196][ 92]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.11.12-21.23.30:205][ 93]LogHttp: Warning: 000001D393CE1600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6335DCF-4D65-FB2A-EFED-1D8AC1FA0E9A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=36e201504b107bc7f4c764bf7b875668%7Cb6a225f95a5248119b1a715eb7b69ad8%7C2fe8eb2f-4c67-42d0-9317-6644727f8725&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.11.12-21.23.30:205][ 93]LogHttp: Warning: 000001D393CE1600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.11.12-21.23.30:205][ 93]LogHttp: Warning: 000001D393CE1600: libcurl info message cache 0 (Connection 90 seems to be dead!)
+[2020.11.12-21.23.30:205][ 93]LogHttp: Warning: 000001D393CE1600: libcurl info message cache 1 (Closing connection 90)
+[2020.11.12-21.23.30:205][ 93]LogHttp: Warning: 000001D393CE1600: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.11.12-21.23.30:206][ 93]LogHttp: Warning: 000001D393CE1600: libcurl info message cache 3 (Closing connection 91)
+[2020.11.12-21.23.30:206][ 93]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6335DCF-4D65-FB2A-EFED-1D8AC1FA0E9A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=36e201504b107bc7f4c764bf7b875668%7Cb6a225f95a5248119b1a715eb7b69ad8%7C2fe8eb2f-4c67-42d0-9317-6644727f8725&AppEnvironment=datacollector-source&UploadType=eteventstream
