@@ -1,15 +1,21 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 11/12/20 21:25:33
 LogInit: Display: Running engine for game: Escape
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.458436
 =======
+=======
+>>>>>>> 66a30b77ffc54e5f0ac4f2fcf8f99bc00ce12de2
 ﻿Log file open, 11/12/20 17:37:40
 LogInit: Display: Running engine for game: Escape
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 4.473744
+<<<<<<< HEAD
+>>>>>>> 66a30b77ffc54e5f0ac4f2fcf8f99bc00ce12de2
+=======
 >>>>>>> 66a30b77ffc54e5f0ac4f2fcf8f99bc00ce12de2
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
@@ -202,6 +208,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2020.11.13-02.25.34:923][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.11.13-02.25.34:923][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1821,6 +1828,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.15-01.27.31:971][975]LogExit: Exiting.
 [2020.11.15-01.27.32:042][975]Log file closed, 11/14/20 20:27:32
 =======
+=======
+>>>>>>> 66a30b77ffc54e5f0ac4f2fcf8f99bc00ce12de2
 [2020.11.12-22.37.43:958][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.11.12-22.37.43:958][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.11.12-22.37.43:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/joliver1/Documents/GitHub/Escape/Saved/Config/Windows/Engine.ini]
@@ -3472,4 +3481,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.12-22.56.17:549][ 21]LogD3D11RHI: CleanupD3DDevice
 [2020.11.12-22.56.17:558][ 21]LogExit: Exiting.
 [2020.11.12-22.56.17:570][ 21]Log file closed, 11/12/20 17:56:17
+<<<<<<< HEAD
+>>>>>>> 66a30b77ffc54e5f0ac4f2fcf8f99bc00ce12de2
+=======
 >>>>>>> 66a30b77ffc54e5f0ac4f2fcf8f99bc00ce12de2
