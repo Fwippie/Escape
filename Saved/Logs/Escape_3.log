@@ -609,3 +609,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-19.29.52:049][  0]LogInit: Transaction tracking system initialized
 [2020.11.18-19.29.55:078][  0]BlueprintLog: New page: Editor Load
 [2020.11.18-19.30.02:758][  0]LocalizationService: Localization service is disabled
+[2020.11.18-19.30.10:107][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.18-19.30.10:107][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.18-19.30.13:095][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.18-19.30.13:095][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.18-19.30.13:679][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joliver1/Documents/GitHub/Escape/Content/' took 0.03s
