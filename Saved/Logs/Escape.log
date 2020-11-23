@@ -2486,3 +2486,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.23-02.08.29:333][465]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.23-02.08.29:333][465]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
 [2020.11.23-02.08.29:334][465]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.11.23-02.08.52:701][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
