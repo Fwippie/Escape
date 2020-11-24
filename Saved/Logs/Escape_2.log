@@ -663,3 +663,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.24-02.17.36:407][  0]LogSlate: Took 0.000803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.11.24-02.17.36:528][  2]LogAssetRegistry: Asset discovery search completed in 8.8690 seconds
 [2020.11.24-02.17.36:541][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2020.11.24-02.19.44:636][616]LogSlate: Took 0.008912 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.24-02.19.45:260][616]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.11.24-02.19.45:283][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.11.24-02.19.45:286][616]Cmd: MAP LOAD FILE="../../../../../../Users/thecy/Documents/GitHub/Escape/Escape/Content/ThirdPersonBP/Maps/Escape.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.24-02.19.45:286][616]LightingResults: New page: Lighting Build
+[2020.11.24-02.19.45:286][616]LoadErrors: New page: Loading map: Escape.umap
+[2020.11.24-02.19.45:291][616]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.24-02.19.45:292][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.24-02.19.45:292][616]MapCheck: New page: Map Check
+[2020.11.24-02.19.45:292][616]LightingResults: New page: Lighting Build
+[2020.11.24-02.19.45:313][616]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024D386AFE00), frame # 1616
+[2020.11.24-02.19.45:313][616]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024D3865BB00), frame # 1616
+[2020.11.24-02.19.45:314][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.11.24-02.19.45:362][616]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.24-02.19.45:362][616]LogAIModule: Creating AISystem for world Escape
+[2020.11.24-02.19.45:362][616]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024D386AF200), frame # 1616
+[2020.11.24-02.19.45:362][616]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024D7F529A80), frame # 1616
+[2020.11.24-02.19.45:388][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.11.24-02.19.45:444][616]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.24-02.19.45:446][616]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2ms to complete.
+[2020.11.24-02.19.45:447][616]LogFileHelpers: Loading map 'Escape' took 0.160
