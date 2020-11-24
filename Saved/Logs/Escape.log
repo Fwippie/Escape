@@ -1309,6 +1309,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.20-09.42.27:590][913]LogHttp: Warning: 0000018A65E40F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
 [2020.11.20-09.42.27:590][913]LogHttp: Warning: 0000018A65E40F00: libcurl info message cache 7 (Closing connection 560)
 [2020.11.20-09.42.27:923][914]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9464F745-4FF7-FB47-DAA1-E294077ACA81%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=a1598b974d82fef7c72b95a640562b80%7Cb6a225f95a5248119b1a715eb7b69ad8%7C84301a19-a703-4124-bc37-8c5c70264a7c&AppEnvironment=datacollector-source&UploadType=eteventstream
+<<<<<<< Updated upstream
 [2020.11.24-17.53.12:394][440]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
 [2020.11.24-17.53.15:866][440]LogSlate: Window 'Save Content' being destroyed
 [2020.11.24-17.53.16:804][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
@@ -1771,3 +1772,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.24-17.53.22:100][444]LogD3D11RHI: CleanupD3DDevice
 [2020.11.24-17.53.22:117][444]LogExit: Exiting.
 [2020.11.24-17.53.22:144][444]Log file closed, 11/24/20 12:53:22
+=======
+>>>>>>> Stashed changes
