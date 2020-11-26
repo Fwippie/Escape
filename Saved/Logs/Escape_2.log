@@ -1303,3 +1303,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.26-04.03.46:326][882]LogHttp: Warning: 0000024D637F2400 Response Header Content-Type: text/html
 [2020.11.26-04.03.46:326][882]LogHttp: Warning: 0000024D637F2400 Response Header Content-Length: 122
 [2020.11.26-04.03.46:326][882]LogHttp: Warning: 0000024D637F2400 Response Header Connection: keep-alive
+[2020.11.26-04.05.48:355][247]LogHttp: Warning: 0000024D637F1D00: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B16056E72-493B-4438-67D5-D98C76DC596A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=36e201504b107bc7f4c764bf7b875668%7Cb6a225f95a5248119b1a715eb7b69ad8%7C2fe8eb2f-4c67-42d0-9317-6644727f8725&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 502, content length: 122, actual payload size: 122, elapsed: 1.98s
+[2020.11.26-04.05.48:355][247]LogHttp: Warning: 0000024D637F1D00 Response Header Server: awselb/2.0
+[2020.11.26-04.05.48:355][247]LogHttp: Warning: 0000024D637F1D00 Response Header Date: Thu, 26 Nov 2020 04:05:48 GMT
+[2020.11.26-04.05.48:355][247]LogHttp: Warning: 0000024D637F1D00 Response Header Content-Type: text/html
+[2020.11.26-04.05.48:356][247]LogHttp: Warning: 0000024D637F1D00 Response Header Content-Length: 122
+[2020.11.26-04.05.48:356][247]LogHttp: Warning: 0000024D637F1D00 Response Header Connection: keep-alive
