@@ -1309,3 +1309,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.26-04.05.48:355][247]LogHttp: Warning: 0000024D637F1D00 Response Header Content-Type: text/html
 [2020.11.26-04.05.48:356][247]LogHttp: Warning: 0000024D637F1D00 Response Header Content-Length: 122
 [2020.11.26-04.05.48:356][247]LogHttp: Warning: 0000024D637F1D00 Response Header Connection: keep-alive
+[2020.11.26-04.07.34:075][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.11.26-04.07.35:267][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.11.26-04.07.35:469][955]LogSavePackage: Moving '../../../../../../Users/thecy/Documents/GitHub/Escape/Escape/Saved/Escape6D7BF79949FCB15388ADA4ADF8DA8FDF.tmp' to '../../../../../../Users/thecy/Documents/GitHub/Escape/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.11.26-04.07.35:515][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Escape_BuiltData" FILE="../../../../../../Users/thecy/Documents/GitHub/Escape/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset" SILENT=true
+[2020.11.26-04.07.37:250][955]LogSavePackage: Moving '../../../../../../Users/thecy/Documents/GitHub/Escape/Escape/Saved/Escape_BuiltData0ACC892545B4AB55AD99ADAD208716C4.tmp' to '../../../../../../Users/thecy/Documents/GitHub/Escape/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.11.26-04.07.37:312][955]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.26-04.07.37:313][955]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.11.26-04.07.37:313][955]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
