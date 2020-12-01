@@ -1224,3 +1224,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.01-05.25.26:610][489]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.01-05.25.26:610][489]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
 [2020.12.01-05.25.26:610][489]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.01-05.26.23:696][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2020.12.01-05.26.38:578][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.12.01-05.26.38:635][806]LogSavePackage: Moving '../../../../../../Users/Dylan/Documents/GitHub/Escape/Saved/EscapeE86DE0A54589E8C33E7BF1AD3A713B52.tmp' to '../../../../../../Users/Dylan/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.01-05.26.38:664][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Escape_BuiltData" FILE="../../../../../../Users/Dylan/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset" SILENT=true
+[2020.12.01-05.26.38:908][806]LogSavePackage: Moving '../../../../../../Users/Dylan/Documents/GitHub/Escape/Saved/Escape_BuiltData0E2212E34B1E8D8D10A061B75D9F5020.tmp' to '../../../../../../Users/Dylan/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.01-05.26.38:920][806]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.01-05.26.38:920][806]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.01-05.26.38:920][806]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
