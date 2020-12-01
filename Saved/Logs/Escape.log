@@ -1232,3 +1232,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.01-05.26.38:920][806]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.01-05.26.38:920][806]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
 [2020.12.01-05.26.38:920][806]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.01-05.27.26:169][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2020.12.01-05.27.53:210][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall36)
+[2020.12.01-05.28.01:943][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2020.12.01-05.28.17:523][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2020.12.01-05.28.19:912][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall41)
+[2020.12.01-05.28.22:263][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2020.12.01-05.28.33:128][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2020.12.01-05.28.44:819][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2020.12.01-05.29.06:897][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube31)
+[2020.12.01-05.29.24:465][195]Cmd: TRANSACTION UNDO
+[2020.12.01-05.29.24:465][195]LogEditorTransaction: Undo Scale Actors
+[2020.12.01-05.29.35:968][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2020.12.01-05.29.56:394][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2020.12.01-05.30.06:943][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2020.12.01-05.30.18:252][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube31)
+[2020.12.01-05.30.20:995][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2020.12.01-05.30.22:959][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube31)
+[2020.12.01-05.31.11:094][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube32)
+[2020.12.01-05.31.32:401][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.01-05.31.32:467][264]LogSavePackage: Moving '../../../../../../Users/Dylan/Documents/GitHub/Escape/Saved/EscapeE171EBC942E3EA67A712D4BA388460B8.tmp' to '../../../../../../Users/Dylan/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.01-05.31.32:492][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Escape_BuiltData" FILE="../../../../../../Users/Dylan/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset" SILENT=true
+[2020.12.01-05.31.32:744][264]LogSavePackage: Moving '../../../../../../Users/Dylan/Documents/GitHub/Escape/Saved/Escape_BuiltDataFA8A29EA40A9AD32E42EF6AEFCE3AE97.tmp' to '../../../../../../Users/Dylan/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.01-05.31.32:755][264]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.01-05.31.32:755][264]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.01-05.31.32:755][264]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
