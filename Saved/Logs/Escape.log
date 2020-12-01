@@ -1257,3 +1257,124 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.01-05.31.32:755][264]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.01-05.31.32:755][264]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
 [2020.12.01-05.31.32:755][264]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.01-05.32.19:815][774]Cmd: TRANSACTION UNDO
+[2020.12.01-05.32.19:815][774]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.32.21:622][836]LogTexture: Display: Building textures: T_Crate_A_M (AutoDXT, 2048X2048)
+[2020.12.01-05.32.21:622][836]LogTexture: Display: Building textures: T_Crate_A_N_normals (BC5, 2048X2048)
+[2020.12.01-05.32.21:622][836]LogTexture: Display: Building textures: T_Crate_A_Diff (AutoDXT, 2048X2048)
+[2020.12.01-05.32.22:835][897]Cmd: TRANSACTION UNDO
+[2020.12.01-05.32.22:835][897]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.32.26:771][108]Cmd: TRANSACTION UNDO
+[2020.12.01-05.32.26:771][108]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.32.27:759][154]LogTexture: Display: Building textures: T_EnergyCore_EM (AutoDXT, 512X512)
+[2020.12.01-05.32.27:759][154]LogMaterial: Display: Missing cached shader map for material M_EnergyEmissive, compiling. 
+[2020.12.01-05.32.27:779][154]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.12.01-05.32.27:779][154]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.12.01-05.32.29:915][259]Cmd: TRANSACTION UNDO
+[2020.12.01-05.32.29:915][259]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.32.42:109][483]LogTexture: Display: Building textures: T_Hexagon (AutoDXT, 512X512)
+[2020.12.01-05.32.42:109][483]LogTexture: Display: Building textures: T_Base_Dirt (AutoDXT, 4096X4096)
+[2020.12.01-05.32.42:109][483]LogTexture: Display: Building textures: T_Base_Dirt_2 (AutoDXT, 4096X4096)
+[2020.12.01-05.32.42:109][483]LogMaterial: Display: Missing cached shader map for material M_SolidColor_Base, compiling. 
+[2020.12.01-05.32.42:127][483]LogMaterial: Display: Missing cached shader map for material M_SolidColor_Base, compiling. 
+[2020.12.01-05.32.42:139][483]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.12.01-05.32.42:139][483]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.12.01-05.32.45:461][675]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.12.01-05.32.46:052][726]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.12.01-05.32.47:373][839]Cmd: TRANSACTION UNDO
+[2020.12.01-05.32.47:373][839]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.32.48:806][921]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.12.01-05.32.50:150][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.12.01-05.32.50:183][984]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.12.01-05.33.18:469][279]Cmd: TRANSACTION UNDO
+[2020.12.01-05.33.18:469][279]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.33.22:356][350]LogTexture: Display: Building textures: T_Hall_Ceiling_Main_EM (AutoDXT, 2048X2048)
+[2020.12.01-05.33.22:357][350]LogTexture: Display: Building textures: T_Hall_Ceiling_Main_M (AutoDXT, 4096X4096)
+[2020.12.01-05.33.22:357][350]LogTexture: Display: Building textures: T_Hall_Ceiling_Main_N_normals (BC5, 4096X4096)
+[2020.12.01-05.33.22:357][350]LogTexture: Display: Building textures: T_Hall_Ceiling_Main_Diff (AutoDXT, 4096X4096)
+[2020.12.01-05.33.29:020][938]Cmd: TRANSACTION UNDO
+[2020.12.01-05.33.29:020][938]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.33.36:539][456]Cmd: TRANSACTION UNDO
+[2020.12.01-05.33.36:539][456]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.33.39:989][649]Cmd: TRANSACTION UNDO
+[2020.12.01-05.33.39:989][649]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.33.44:979][862]LogTexture: Display: Building textures: T_Wires_Diff_A (AutoDXT, 2048X2048)
+[2020.12.01-05.33.44:979][862]LogMaterial: Display: Missing cached shader map for material M_Base_Wires, compiling. 
+[2020.12.01-05.33.44:999][862]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.12.01-05.33.44:999][862]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.12.01-05.33.48:612][141]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.12.01-05.33.49:276][194]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.12.01-05.33.59:858][268]Cmd: TRANSACTION UNDO
+[2020.12.01-05.33.59:858][268]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.34.15:603][241]Cmd: TRANSACTION UNDO
+[2020.12.01-05.34.15:603][241]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.34.28:255][658]LogTexture: Display: Building textures: T_Trims_B_M (AutoDXT, 4096X4096)
+[2020.12.01-05.34.28:255][658]LogTexture: Display: Building textures: T_Trims_B_N_normals (BC5, 4096X4096)
+[2020.12.01-05.34.28:255][658]LogTexture: Display: Building textures: T_Trims_B_Diff (AutoDXT, 4096X4096)
+[2020.12.01-05.34.32:961][ 43]Cmd: TRANSACTION UNDO
+[2020.12.01-05.34.32:961][ 43]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.34.46:141][120]Cmd: TRANSACTION UNDO
+[2020.12.01-05.34.46:141][120]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.34.55:769][439]LogTexture: Display: Building textures: T_Trims_A_M_B (AutoDXT, 4096X4096)
+[2020.12.01-05.34.55:769][439]LogTexture: Display: Building textures: T_Trims_A_N_normals (BC5, 4096X4096)
+[2020.12.01-05.34.55:769][439]LogTexture: Display: Building textures: T_Trims_A_Diff_B (AutoDXT, 4096X4096)
+[2020.12.01-05.34.59:891][794]Cmd: TRANSACTION UNDO
+[2020.12.01-05.34.59:891][794]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.35.05:980][124]Cmd: TRANSACTION UNDO
+[2020.12.01-05.35.05:980][124]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.35.09:382][161]LogTexture: Display: Building textures: T_Ceiling_C_2_M (AutoDXT, 4096X4096)
+[2020.12.01-05.35.09:382][161]LogTexture: Display: Building textures: T_Ceiling_C_2_N_normals (BC5, 4096X4096)
+[2020.12.01-05.35.09:382][161]LogTexture: Display: Building textures: T_Ceiling_C_2_Diff (AutoDXT, 4096X4096)
+[2020.12.01-05.35.13:634][532]Cmd: TRANSACTION UNDO
+[2020.12.01-05.35.13:634][532]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.35.17:206][695]LogTexture: Display: Building textures: T_Ceiling_C_1_M (AutoDXT, 4096X4096)
+[2020.12.01-05.35.17:206][695]LogTexture: Display: Building textures: T_Ceiling_C_1_N_normals (BC5, 4096X4096)
+[2020.12.01-05.35.17:206][695]LogTexture: Display: Building textures: T_Ceiling_C_1_Diff (AutoDXT, 4096X4096)
+[2020.12.01-05.35.17:206][695]LogMaterial: Display: Missing cached shader map for material M_Base_3C, compiling. 
+[2020.12.01-05.35.19:230][695]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.12.01-05.35.19:230][695]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.12.01-05.35.21:535][889]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.12.01-05.35.22:713][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.12.01-05.35.26:795][406]Cmd: TRANSACTION UNDO
+[2020.12.01-05.35.26:795][406]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.35.40:931][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2020.12.01-05.35.57:673][563]LogTexture: Display: Building textures: T_Win_Post_A_N_normals (BC5, 4096X4096)
+[2020.12.01-05.35.57:673][563]LogTexture: Display: Building textures: T_Win_Post_A_M (AutoDXT, 4096X4096)
+[2020.12.01-05.35.57:673][563]LogTexture: Display: Building textures: T_Win_Post_A_Diff (AutoDXT, 4096X4096)
+[2020.12.01-05.36.00:935][800]Cmd: TRANSACTION UNDO
+[2020.12.01-05.36.00:935][800]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.36.53:337][657]Cmd: TRANSACTION UNDO
+[2020.12.01-05.36.53:337][657]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.37.05:251][374]LogMaterial: Display: Missing cached shader map for material M_SolidLight_Parent, compiling. 
+[2020.12.01-05.37.05:268][374]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.12.01-05.37.05:268][374]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.12.01-05.37.08:806][646]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.12.01-05.37.09:343][690]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.12.01-05.38.39:591][224]Cmd: TRANSACTION UNDO
+[2020.12.01-05.38.39:591][224]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.39.10:676][663]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight2)
+[2020.12.01-05.39.12:011][822]Cmd: DELETE
+[2020.12.01-05.39.12:011][822]Cmd: ACTOR DELETE
+[2020.12.01-05.39.12:019][822]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.12.01-05.39.12:029][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.01-05.39.12:036][822]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.12.01-05.40.02:412][470]LogTexture: Display: Building textures: T_CeilingLight_M (AutoDXT, 4096X4096)
+[2020.12.01-05.40.02:412][470]LogTexture: Display: Building textures: T_CeilingLight_N_normals (BC5, 4096X4096)
+[2020.12.01-05.40.02:412][470]LogTexture: Display: Building textures: T_CeilingLight_Diff (AutoDXT, 4096X4096)
+[2020.12.01-05.40.04:053][639]Cmd: TRANSACTION UNDO
+[2020.12.01-05.40.04:053][639]LogEditorTransaction: Undo Create Actors
+[2020.12.01-05.41.31:631][425]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.12.01-05.41.32:829][566]Cmd: DELETE
+[2020.12.01-05.41.32:829][566]Cmd: ACTOR DELETE
+[2020.12.01-05.41.32:834][566]LogEditorActor: Deleted Actor: PointLight
+[2020.12.01-05.41.32:843][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.12.01-05.41.32:848][566]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.12.01-05.42.41:180][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2020.12.01-05.42.44:965][893]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2020.12.01-05.43.33:099][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.12.01-05.43.33:187][190]LogSavePackage: Moving '../../../../../../Users/Dylan/Documents/GitHub/Escape/Saved/Escape693FC7EA47F1D03FDA2A85A1D3A8926F.tmp' to '../../../../../../Users/Dylan/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.01-05.43.33:214][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Escape_BuiltData" FILE="../../../../../../Users/Dylan/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset" SILENT=true
+[2020.12.01-05.43.33:500][190]LogSavePackage: Moving '../../../../../../Users/Dylan/Documents/GitHub/Escape/Saved/Escape_BuiltDataBD11F39F4F12838F28F36BB09EED70DF.tmp' to '../../../../../../Users/Dylan/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.01-05.43.33:512][190]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.01-05.43.33:512][190]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.01-05.43.33:512][190]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
