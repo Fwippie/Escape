@@ -1900,3 +1900,127 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.09-18.15.02:330][303]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.09-18.15.02:330][303]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
 [2020.12.09-18.15.02:330][303]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-18.15.48:010][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2020.12.09-18.15.52:019][852]Cmd: TRANSACTION UNDO
+[2020.12.09-18.15.52:019][852]LogEditorTransaction: Undo Move Actors
+[2020.12.09-18.16.02:768][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.12.09-18.16.05:301][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2020.12.09-18.16.11:504][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.12.09-18.16.14:274][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.12.09-18.16.14:761][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.12.09-18.16.16:474][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.12.09-18.16.36:820][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.12.09-18.16.54:224][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.12.09-18.16.54:329][542]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape77E996474960249200BD8E9F4EAB4263.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-18.16.54:655][542]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltData197B729540F625196087DDBEC7827ED0.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-18.16.54:713][542]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-18.16.54:713][542]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-18.16.54:713][542]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-18.17.35:465][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube40)
+[2020.12.09-18.17.43:704][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.12.09-18.17.43:852][207]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape349ECB574D01913A4D9D3E8A06F03A16.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-18.17.44:174][207]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltDataC8DFA06741BE928B66888E815148F381.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-18.17.44:230][207]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-18.17.44:230][207]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-18.17.44:230][207]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-18.18.17:933][204]Cmd: EDIT COPY
+[2020.12.09-18.18.18:253][223]Cmd: EDIT PASTE
+[2020.12.09-18.18.24:505][578]Cmd: DELETE
+[2020.12.09-18.18.24:505][578]Cmd: ACTOR DELETE
+[2020.12.09-18.18.24:512][578]LogEditorActor: Deleted Actor: SpotLight
+[2020.12.09-18.18.24:526][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.09-18.18.24:528][578]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.12.09-18.18.25:232][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube54)
+[2020.12.09-18.18.25:759][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube54)
+[2020.12.09-18.18.26:208][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube54)
+[2020.12.09-18.18.26:642][700]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight16)
+[2020.12.09-18.18.27:176][730]Cmd: DELETE
+[2020.12.09-18.18.27:176][730]Cmd: ACTOR DELETE
+[2020.12.09-18.18.27:183][730]LogEditorActor: Deleted Actor: SpotLight
+[2020.12.09-18.18.27:196][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.09-18.18.27:197][730]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.12.09-18.19.29:251][342]Cmd: TRANSACTION UNDO
+[2020.12.09-18.19.29:251][342]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2020.12.09-18.19.35:770][690]Cmd: TRANSACTION UNDO
+[2020.12.09-18.19.35:770][690]LogEditorTransaction: Undo Edit Source Length
+[2020.12.09-18.19.36:969][742]Cmd: TRANSACTION UNDO
+[2020.12.09-18.19.36:969][742]LogEditorTransaction: Undo Edit Source Length
+[2020.12.09-18.19.42:108][ 30]Cmd: TRANSACTION UNDO
+[2020.12.09-18.19.42:108][ 30]LogEditorTransaction: Undo Edit Soft Source Radius
+[2020.12.09-18.19.45:932][228]Cmd: TRANSACTION UNDO
+[2020.12.09-18.19.45:932][228]LogEditorTransaction: Undo Edit Source Radius
+[2020.12.09-18.19.54:381][700]Cmd: TRANSACTION UNDO
+[2020.12.09-18.19.54:381][700]LogEditorTransaction: Undo Edit Indirect Lighting Intensity
+[2020.12.09-18.19.56:793][826]Cmd: TRANSACTION UNDO
+[2020.12.09-18.19.56:793][826]LogEditorTransaction: Undo Edit Volumetric Scattering Intensity
+[2020.12.09-18.20.48:634][837]Cmd: EDIT COPY
+[2020.12.09-18.20.48:917][854]Cmd: EDIT PASTE
+[2020.12.09-18.21.02:629][608]Cmd: EDIT COPY
+[2020.12.09-18.21.02:854][620]Cmd: EDIT PASTE
+[2020.12.09-18.21.13:479][213]Cmd: EDIT COPY
+[2020.12.09-18.21.13:753][229]Cmd: EDIT PASTE
+[2020.12.09-18.21.25:489][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.12.09-18.21.33:989][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.09-18.21.34:096][363]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/EscapeF1F0EDB246A7A9D86A88AEB5173B774C.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-18.21.34:466][363]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltDataBBF957A5441ECF8D90C70E96272257CD.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-18.21.34:524][363]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-18.21.34:524][363]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-18.21.34:524][363]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-18.21.54:753][561]Cmd: EDIT COPY
+[2020.12.09-18.21.55:003][576]Cmd: EDIT PASTE
+[2020.12.09-18.22.07:600][311]Cmd: EDIT COPY
+[2020.12.09-18.22.07:820][323]Cmd: EDIT PASTE
+[2020.12.09-18.22.13:480][652]Cmd: EDIT COPY
+[2020.12.09-18.22.13:718][665]Cmd: EDIT PASTE
+[2020.12.09-18.22.17:461][883]Cmd: EDIT COPY
+[2020.12.09-18.22.17:663][895]Cmd: EDIT PASTE
+[2020.12.09-18.22.20:720][ 72]Cmd: EDIT COPY
+[2020.12.09-18.22.20:926][ 83]Cmd: EDIT PASTE
+[2020.12.09-18.22.26:740][424]Cmd: EDIT COPY
+[2020.12.09-18.22.26:954][435]Cmd: EDIT PASTE
+[2020.12.09-18.22.30:931][669]Cmd: EDIT COPY
+[2020.12.09-18.22.31:436][697]Cmd: EDIT PASTE
+[2020.12.09-18.23.19:591][542]Cmd: EDIT COPY
+[2020.12.09-18.23.19:874][559]Cmd: EDIT PASTE
+[2020.12.09-18.23.25:441][889]Cmd: EDIT COPY
+[2020.12.09-18.23.25:668][902]Cmd: EDIT PASTE
+[2020.12.09-18.23.31:948][274]Cmd: EDIT COPY
+[2020.12.09-18.23.32:189][288]Cmd: EDIT PASTE
+[2020.12.09-18.23.36:124][519]Cmd: EDIT COPY
+[2020.12.09-18.23.36:348][530]Cmd: EDIT PASTE
+[2020.12.09-18.23.40:595][776]Cmd: EDIT COPY
+[2020.12.09-18.23.40:814][787]Cmd: EDIT PASTE
+[2020.12.09-18.23.44:450][998]Cmd: EDIT COPY
+[2020.12.09-18.23.44:657][  8]Cmd: EDIT PASTE
+[2020.12.09-18.23.47:241][156]Cmd: EDIT COPY
+[2020.12.09-18.23.47:818][189]Cmd: EDIT PASTE
+[2020.12.09-18.24.12:889][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.09-18.24.13:002][686]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/EscapeCAD5799548FCC16E19F1499C683F41B9.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-18.24.13:326][686]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltDataA9E0F56246350DD6301247A96C8C7C2E.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-18.24.13:381][686]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-18.24.13:381][686]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-18.24.13:381][686]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-18.24.50:453][900]Cmd: TRANSACTION UNDO
+[2020.12.09-18.24.50:453][900]LogEditorTransaction: Undo Move Actors
+[2020.12.09-18.24.56:313][226]Cmd: EDIT COPY
+[2020.12.09-18.24.56:607][243]Cmd: EDIT PASTE
+[2020.12.09-18.25.07:553][888]Cmd: EDIT COPY
+[2020.12.09-18.25.07:821][904]Cmd: EDIT PASTE
+[2020.12.09-18.25.38:802][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.12.09-18.25.38:930][ 14]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/EscapeF9E8E1684993530AB39C1FB7AC91BFC2.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-18.25.39:246][ 14]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltData51C713CB4FE163688A104FA5738DD372.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-18.25.39:302][ 14]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-18.25.39:302][ 14]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-18.25.39:302][ 14]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-18.26.03:678][453]Cmd: EDIT COPY
+[2020.12.09-18.26.04:064][476]Cmd: EDIT PASTE
+[2020.12.09-18.26.09:801][808]Cmd: EDIT COPY
+[2020.12.09-18.26.10:031][821]Cmd: EDIT PASTE
+[2020.12.09-18.26.19:631][378]Cmd: EDIT COPY
+[2020.12.09-18.26.19:903][394]Cmd: EDIT PASTE
+[2020.12.09-18.26.47:516][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.09-18.26.47:648][ 30]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/EscapeCF04F3DB4FB93F69E015B7899B9EFC7D.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-18.26.47:965][ 30]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltData610455B046DFDD7D551E278969E184C9.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-18.26.48:022][ 30]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-18.26.48:023][ 30]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-18.26.48:023][ 30]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
