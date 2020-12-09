@@ -2024,3 +2024,92 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.09-18.26.48:022][ 30]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.09-18.26.48:023][ 30]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
 [2020.12.09-18.26.48:023][ 30]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-18.27.20:366][960]Cmd: TRANSACTION UNDO
+[2020.12.09-18.27.20:366][960]LogEditorTransaction: Undo Move Actors
+[2020.12.09-18.27.24:118][164]Cmd: EDIT COPY
+[2020.12.09-18.27.24:367][179]Cmd: EDIT PASTE
+[2020.12.09-18.27.25:983][274]LogEditorViewport: Clicking on Actor (context menu): RectLight (RectLight243)
+[2020.12.09-18.27.29:849][483]Cmd: ACTOR MIRROR X=-1
+[2020.12.09-18.27.33:326][691]Cmd: TRANSACTION UNDO
+[2020.12.09-18.27.33:326][691]LogEditorTransaction: Undo Move Actors
+[2020.12.09-18.27.34:625][751]Cmd: TRANSACTION UNDO
+[2020.12.09-18.27.34:625][751]LogEditorTransaction: Undo Mirroring Actors
+[2020.12.09-18.27.35:730][814]LogEditorViewport: Clicking on Actor (context menu): RectLight (RectLight243)
+[2020.12.09-18.27.39:726][ 25]Cmd: TRANSACTION UNDO
+[2020.12.09-18.27.39:727][ 25]LogEditorTransaction: Undo Move Actors
+[2020.12.09-18.27.40:735][ 67]Cmd: TRANSACTION UNDO
+[2020.12.09-18.27.40:735][ 67]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.12.09-18.27.43:527][230]LogEditorViewport: Clicking on Actor (context menu): LaunchpadBP_C (LaunchpadBP2)
+[2020.12.09-18.27.44:402][258]LogEditorViewport: Clicking on Actor (LMB): LaunchpadBP_C (LaunchpadBP2)
+[2020.12.09-18.27.44:866][285]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight244)
+[2020.12.09-18.27.45:328][311]LogEditorViewport: Clicking on Actor (context menu): RectLight (RectLight244)
+[2020.12.09-18.27.47:507][420]Cmd: ACTOR MIRROR Z=-1
+[2020.12.09-18.27.56:317][945]Cmd: EDIT COPY
+[2020.12.09-18.27.56:567][960]Cmd: EDIT PASTE
+[2020.12.09-18.28.02:231][295]Cmd: EDIT COPY
+[2020.12.09-18.28.02:498][311]Cmd: EDIT PASTE
+[2020.12.09-18.28.07:476][605]Cmd: EDIT COPY
+[2020.12.09-18.28.07:903][630]Cmd: EDIT PASTE
+[2020.12.09-18.28.16:237][121]Cmd: EDIT COPY
+[2020.12.09-18.28.16:773][153]Cmd: EDIT PASTE
+[2020.12.09-18.28.35:845][279]Cmd: DELETE
+[2020.12.09-18.28.35:845][279]Cmd: ACTOR DELETE
+[2020.12.09-18.28.35:853][279]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.12.09-18.28.35:869][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.12.09-18.28.35:871][279]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.12.09-18.28.47:193][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2020.12.09-18.28.48:383][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2020.12.09-18.28.49:699][ 92]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight31)
+[2020.12.09-18.29.24:793][154]Cmd: EDIT COPY
+[2020.12.09-18.29.25:080][171]Cmd: EDIT PASTE
+[2020.12.09-18.29.39:019][  0]Cmd: DELETE
+[2020.12.09-18.29.39:020][  0]Cmd: ACTOR DELETE
+[2020.12.09-18.29.39:027][  0]LogEditorActor: Deleted Actor: SpotLight
+[2020.12.09-18.29.39:042][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.12.09-18.29.39:044][  0]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.12.09-18.29.51:056][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube40)
+[2020.12.09-18.30.05:819][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2020.12.09-18.30.17:697][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube40)
+[2020.12.09-18.30.20:264][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.12.09-18.30.22:560][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2020.12.09-18.30.28:578][946]Cmd: EDIT CUT
+[2020.12.09-18.30.28:587][946]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.12.09-18.30.28:596][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.09-18.30.28:598][946]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.12.09-18.30.29:754][ 16]Cmd: TRANSACTION UNDO
+[2020.12.09-18.30.29:754][ 16]LogEditorTransaction: Undo Cut
+[2020.12.09-18.30.30:507][ 42]Cmd: TRANSACTION UNDO
+[2020.12.09-18.30.30:507][ 42]LogEditorTransaction: Undo Move Actors
+[2020.12.09-18.30.32:211][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.12.09-18.30.35:776][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2020.12.09-18.30.42:399][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.12.09-18.30.42:970][777]Cmd: TRANSACTION UNDO
+[2020.12.09-18.30.42:970][777]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.09-18.30.43:418][790]Cmd: TRANSACTION UNDO
+[2020.12.09-18.30.43:418][790]LogEditorTransaction: Undo Set Location
+[2020.12.09-18.30.44:014][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.12.09-18.30.47:341][ 14]Cmd: TRANSACTION UNDO
+[2020.12.09-18.30.47:341][ 14]LogEditorTransaction: Undo Move Actors
+[2020.12.09-18.30.52:120][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2020.12.09-18.30.59:359][706]Cmd: TRANSACTION UNDO
+[2020.12.09-18.30.59:359][706]LogEditorTransaction: Undo Set Location
+[2020.12.09-18.31.03:272][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2020.12.09-18.31.04:604][999]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube41)
+[2020.12.09-18.31.08:359][202]Cmd: ACTOR MIRROR X=-1
+[2020.12.09-18.31.14:151][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2020.12.09-18.31.14:468][562]Cmd: TRANSACTION UNDO
+[2020.12.09-18.31.14:468][562]LogEditorTransaction: Undo Set Location
+[2020.12.09-18.31.14:836][574]Cmd: TRANSACTION UNDO
+[2020.12.09-18.31.14:837][574]LogEditorTransaction: Undo Mirroring Actors
+[2020.12.09-18.31.18:447][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.09-18.31.18:569][773]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/EscapeC9EB7F9C4DCC640F9935A3AD97BA6B60.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-18.31.18:889][773]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltDataE5DD9F324FA05662213942A918000EB0.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-18.31.18:946][773]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-18.31.18:946][773]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-18.31.18:946][773]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-18.31.34:149][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.09-18.31.34:268][655]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/EscapeBCD652F54FF52C4FE58BE382D3E08504.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-18.31.34:626][655]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltDataAC66BA8A41FC7BD46716B98C0A317543.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-18.31.34:684][655]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-18.31.34:684][655]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-18.31.34:684][655]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
