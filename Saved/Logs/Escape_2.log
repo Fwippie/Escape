@@ -2548,3 +2548,140 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.09-18.59.15:935][661]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.09-18.59.15:935][661]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
 [2020.12.09-18.59.15:935][661]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-18.59.54:450][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2020.12.09-19.00.12:251][833]Cmd: TRANSACTION UNDO
+[2020.12.09-19.00.12:251][833]LogEditorTransaction: Undo Move Actors
+[2020.12.09-19.00.14:346][932]Cmd: DELETE
+[2020.12.09-19.00.14:347][932]Cmd: ACTOR DELETE
+[2020.12.09-19.00.14:354][932]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.12.09-19.00.14:363][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.09-19.00.14:365][932]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.12.09-19.00.16:225][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2020.12.09-19.00.41:935][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.09-19.00.42:069][513]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/EscapeFBCE04E6447D506C56E4F2BAD660608D.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-19.00.42:386][513]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltData68355FA241D4E05E5F076BAFD7AD842D.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-19.00.42:442][513]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-19.00.42:442][513]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-19.00.42:442][513]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-19.00.45:447][687]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.00.50:215][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube40)
+[2020.12.09-19.00.50:327][961]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.12.09-19.01.04:373][798]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.01.06:594][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.12.09-19.01.06:708][923]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape31D32CB1469DFFC43B03C692988BD279.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-19.01.07:041][923]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltData3CB73F23412BF20A069576BA7A671FC6.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-19.01.07:097][923]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-19.01.07:097][923]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-19.01.07:097][923]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-19.01.13:647][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube46)
+[2020.12.09-19.01.20:025][689]Cmd: TRANSACTION UNDO
+[2020.12.09-19.01.20:025][689]LogEditorTransaction: Undo Set Location
+[2020.12.09-19.01.24:564][938]Cmd: TRANSACTION UNDO
+[2020.12.09-19.01.24:564][938]LogEditorTransaction: Undo Set Location
+[2020.12.09-19.01.30:229][256]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.01.32:011][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.09-19.01.32:125][355]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape86C525B240574A068E3E37A4BE805850.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-19.01.32:461][355]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltData254BFE6A483AB13FB078C7B79044CD2E.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-19.01.32:519][355]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-19.01.32:519][355]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-19.01.32:519][355]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-19.01.43:507][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2020.12.09-19.02.06:796][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.09-19.02.06:913][373]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape692106B64ED0FCD4980844AB540E1032.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-19.02.07:240][373]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltData98EE242B4FAC52C7C1C89699C7DEFE43.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-19.02.07:292][373]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-19.02.07:292][373]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-19.02.07:292][373]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-19.02.08:979][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube68)
+[2020.12.09-19.02.11:379][597]Cmd: EDIT COPY
+[2020.12.09-19.02.12:403][656]Cmd: EDIT PASTE
+[2020.12.09-19.03.07:584][882]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.03.10:776][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube71)
+[2020.12.09-19.03.16:297][399]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.03.29:913][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube71)
+[2020.12.09-19.04.10:939][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2020.12.09-19.04.28:221][643]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.04.38:461][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube71)
+[2020.12.09-19.05.11:349][198]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.05.12:532][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube71)
+[2020.12.09-19.05.26:755][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube71)
+[2020.12.09-19.05.27:993][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube47)
+[2020.12.09-19.05.29:097][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube71)
+[2020.12.09-19.05.36:981][707]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.05.40:171][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.09-19.05.40:296][889]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape031196864F26D6F52A20E89EB203CFBF.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-19.05.40:632][889]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltDataF4C9C85B48C143CE37702EAFC18790AB.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-19.05.40:693][889]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-19.05.40:693][889]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-19.05.40:693][889]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-19.05.51:164][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.12.09-19.05.52:078][556]Cmd: EDIT COPY
+[2020.12.09-19.05.52:298][569]Cmd: EDIT PASTE
+[2020.12.09-19.05.53:408][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube48)
+[2020.12.09-19.05.54:842][717]Cmd: TRANSACTION UNDO
+[2020.12.09-19.05.54:842][717]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.09-19.06.31:719][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube72)
+[2020.12.09-19.07.16:412][466]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.07.21:817][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.12.09-19.07.21:933][773]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape1C5BAD444FFCD5E29ABBAC8F4674EC23.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-19.07.22:271][773]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltData5413647A46891D8F4E43F99E958856B5.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-19.07.22:331][773]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-19.07.22:331][773]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-19.07.22:331][773]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-19.07.28:339][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.12.09-19.07.35:338][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube48)
+[2020.12.09-19.07.36:238][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.12.09-19.07.50:717][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube72)
+[2020.12.09-19.07.58:641][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.12.09-19.08.03:525][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube72)
+[2020.12.09-19.08.20:415][170]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.08.26:500][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.12.09-19.08.42:477][479]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.08.48:347][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.12.09-19.08.49:210][876]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.08.50:414][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.12.09-19.09.04:102][757]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP2)
+[2020.12.09-19.09.05:889][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2020.12.09-19.09.13:380][296]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.09.16:658][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.09-19.09.16:773][479]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape76BDDA3642A33CD93CDA8D9455A30396.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-19.09.17:105][479]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltDataC880BBB5483FCEF15AF6D28B846DE9B2.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-19.09.17:163][479]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-19.09.17:163][479]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-19.09.17:163][479]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-19.09.27:000][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube72)
+[2020.12.09-19.09.34:122][488]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.09.38:996][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.09-19.09.39:111][774]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape94728EA54873BE4B9601CEB1D7C9BD83.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-19.09.39:441][774]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltData9D7D15E249F70BBC7D6BEBA8568ED44F.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-19.09.39:499][774]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-19.09.39:499][774]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-19.09.39:499][774]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-19.09.47:927][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube72)
+[2020.12.09-19.09.55:027][690]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.10.04:101][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.12.09-19.10.04:217][221]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape7CD69A4C4DD8B221979158B2ADE1AA7F.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-19.10.04:560][221]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltData183D99A9457D29820DE652A87F5FBF63.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-19.10.04:619][221]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-19.10.04:619][221]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-19.10.04:619][221]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-19.10.13:689][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2020.12.09-19.10.16:238][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.12.09-19.10.18:209][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2020.12.09-19.10.19:552][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.12.09-19.10.22:246][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2020.12.09-19.10.23:476][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.12.09-19.10.28:996][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2020.12.09-19.10.58:550][336]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.11.11:382][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube68)
+[2020.12.09-19.11.11:822][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2020.12.09-19.11.13:170][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube68)
+[2020.12.09-19.11.28:668][ 80]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.11.34:067][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube68)
+[2020.12.09-19.11.44:996][ 48]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-19.11.48:899][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.09-19.11.49:024][263]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape80EA241E4976476F07DE1CB161078C18.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-19.11.49:371][263]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltData50AEF2BC48B6C55962936A8A70C67B87.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-19.11.49:427][263]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-19.11.49:427][263]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-19.11.49:428][263]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
