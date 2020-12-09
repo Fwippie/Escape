@@ -1630,3 +1630,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.09-20.35.06:252][649]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.09-20.35.06:252][649]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
 [2020.12.09-20.35.06:252][649]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-21.12.29:625][480]LogTemp: Resetting audio stream to device id 
+[2020.12.09-21.12.29:709][480]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.09-21.12.29:709][480]LogAudioMixer: Display: 1: FrontRight
+[2020.12.09-21.12.29:709][480]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.09-21.12.29:709][480]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.09-21.12.29:709][480]LogAudioMixer: Display: 4: BackLeft
+[2020.12.09-21.12.29:709][480]LogAudioMixer: Display: 5: BackRight
+[2020.12.09-21.12.29:709][480]LogAudioMixer: Display: 6: SideLeft
+[2020.12.09-21.12.29:709][480]LogAudioMixer: Display: 7: SideRight
+[2020.12.09-21.26.07:757][490]LogTemp: Resetting audio stream to device id 
+[2020.12.09-21.26.07:949][490]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.09-21.26.07:950][490]LogAudioMixer: Display: 1: FrontRight
+[2020.12.09-21.26.07:950][490]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.09-21.26.07:950][490]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.09-21.26.07:950][490]LogAudioMixer: Display: 4: BackLeft
+[2020.12.09-21.26.07:950][490]LogAudioMixer: Display: 5: BackRight
+[2020.12.09-21.26.07:950][490]LogAudioMixer: Display: 6: SideLeft
+[2020.12.09-21.26.07:950][490]LogAudioMixer: Display: 7: SideRight
