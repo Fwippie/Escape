@@ -2361,3 +2361,190 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.09-18.46.46:832][ 41]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.09-18.46.46:832][ 41]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
 [2020.12.09-18.46.46:832][ 41]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-18.47.21:803][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.12.09-18.47.24:408][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube54)
+[2020.12.09-18.48.05:271][752]Cmd: TRANSACTION UNDO
+[2020.12.09-18.48.05:271][752]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.48.21:749][643]Cmd: TRANSACTION UNDO
+[2020.12.09-18.48.21:749][643]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.48.22:060][654]Cmd: TRANSACTION UNDO
+[2020.12.09-18.48.22:060][654]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.48.22:441][665]Cmd: TRANSACTION UNDO
+[2020.12.09-18.48.22:442][665]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.48.22:760][684]Cmd: TRANSACTION UNDO
+[2020.12.09-18.48.22:760][684]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.48.23:143][707]Cmd: TRANSACTION UNDO
+[2020.12.09-18.48.23:143][707]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.48.23:460][726]Cmd: TRANSACTION UNDO
+[2020.12.09-18.48.23:460][726]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.48.23:877][751]Cmd: TRANSACTION UNDO
+[2020.12.09-18.48.23:877][751]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.48.28:771][ 21]Cmd: TRANSACTION UNDO
+[2020.12.09-18.48.28:771][ 21]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.48.38:862][513]LogTexture: Display: Building textures: T_Pipes_A_M (AutoDXT, 2048X2048)
+[2020.12.09-18.48.38:862][513]LogTexture: Display: Building textures: T_Pipes_A_N_normals (BC5, 2048X2048)
+[2020.12.09-18.48.38:862][513]LogTexture: Display: Building textures: T_Pipes_A_Diff (AutoDXT, 2048X2048)
+[2020.12.09-18.48.42:673][725]Cmd: TRANSACTION UNDO
+[2020.12.09-18.48.42:673][725]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.48.43:519][756]Cmd: TRANSACTION UNDO
+[2020.12.09-18.48.43:519][756]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.48.46:446][781]LogTexture: Display: Building textures: T_Trims_A_M_B (AutoDXT, 4096X4096)
+[2020.12.09-18.48.46:446][781]LogTexture: Display: Building textures: T_Trims_A_N_normals (BC5, 4096X4096)
+[2020.12.09-18.48.46:446][781]LogTexture: Display: Building textures: T_Trims_A_Diff_B (AutoDXT, 4096X4096)
+[2020.12.09-18.48.53:595][ 61]LogTexture: Display: Building textures: T_Trims_A_M (AutoDXT, 4096X4096)
+[2020.12.09-18.48.53:595][ 61]LogTexture: Display: Building textures: T_Trims_A_Diff (AutoDXT, 4096X4096)
+[2020.12.09-18.49.20:094][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.12.09-18.49.25:288][900]Cmd: TRANSACTION UNDO
+[2020.12.09-18.49.25:288][900]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.09-18.49.25:692][909]Cmd: TRANSACTION UNDO
+[2020.12.09-18.49.25:692][909]LogEditorTransaction: Undo Edit Intensity
+[2020.12.09-18.49.25:988][920]Cmd: TRANSACTION UNDO
+[2020.12.09-18.49.25:988][920]LogEditorTransaction: Undo Move Actors
+[2020.12.09-18.49.26:405][945]Cmd: TRANSACTION UNDO
+[2020.12.09-18.49.26:405][945]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.49.26:792][963]Cmd: TRANSACTION UNDO
+[2020.12.09-18.49.26:792][963]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.49.27:175][986]Cmd: TRANSACTION UNDO
+[2020.12.09-18.49.27:175][986]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.49.27:913][ 30]Cmd: TRANSACTION UNDO
+[2020.12.09-18.49.27:913][ 30]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.49.28:235][ 49]Cmd: TRANSACTION UNDO
+[2020.12.09-18.49.28:235][ 49]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.49.28:568][ 69]Cmd: TRANSACTION UNDO
+[2020.12.09-18.49.28:569][ 69]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.49.28:852][ 86]Cmd: TRANSACTION UNDO
+[2020.12.09-18.49.28:852][ 86]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.49.29:185][106]Cmd: TRANSACTION UNDO
+[2020.12.09-18.49.29:185][106]LogEditorTransaction: Undo Create Actors
+[2020.12.09-18.49.36:549][426]LogTexture: Display: Building textures: T_Win_Floor_A_M (AutoDXT, 4096X4096)
+[2020.12.09-18.49.36:549][426]LogTexture: Display: Building textures: T_Win_Floor_A_N_normals (BC5, 4096X4096)
+[2020.12.09-18.49.36:549][426]LogTexture: Display: Building textures: T_Win_Floor_A_Diff (AutoDXT, 4096X4096)
+[2020.12.09-18.49.52:122][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2020.12.09-18.49.54:775][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2020.12.09-18.50.04:252][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2020.12.09-18.50.05:853][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2020.12.09-18.50.18:030][801]Cmd: TRANSACTION UNDO
+[2020.12.09-18.50.18:030][801]LogEditorTransaction: Undo Move Actors
+[2020.12.09-18.50.18:788][828]Cmd: TRANSACTION UNDO
+[2020.12.09-18.50.18:788][828]LogEditorTransaction: Undo Scale Actors
+[2020.12.09-18.50.19:438][867]Cmd: TRANSACTION UNDO
+[2020.12.09-18.50.19:439][867]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.09-18.50.20:310][915]Cmd: TRANSACTION UNDO
+[2020.12.09-18.50.20:311][915]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.09-18.50.20:723][939]Cmd: TRANSACTION UNDO
+[2020.12.09-18.50.20:723][939]LogEditorTransaction: Undo Move Actors
+[2020.12.09-18.50.21:140][964]Cmd: TRANSACTION UNDO
+[2020.12.09-18.50.21:140][964]LogEditorTransaction: Undo Move Actors
+[2020.12.09-18.50.23:321][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2020.12.09-18.50.43:717][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2020.12.09-18.50.45:201][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2020.12.09-18.51.09:628][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2020.12.09-18.51.12:239][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2020.12.09-18.51.22:044][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.12.09-18.51.31:207][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2020.12.09-18.51.33:124][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2020.12.09-18.51.34:885][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2020.12.09-18.51.52:797][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2020.12.09-18.51.56:004][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.09-18.51.56:133][457]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/EscapeD61A717A43411262A5272D8B51BAF78D.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-18.51.56:479][457]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltDataF8CB716A4363860D226920B198A5021A.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-18.51.56:537][457]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-18.51.56:537][457]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-18.51.56:537][457]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-18.52.33:883][645]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP2)
+[2020.12.09-18.52.38:988][940]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP2)
+[2020.12.09-18.52.39:425][965]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP2)
+[2020.12.09-18.52.39:527][970]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.12.09-18.52.59:616][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube67)
+[2020.12.09-18.53.03:445][252]LogTexture: Display: Building textures: T_Win_Post_A_M (AutoDXT, 4096X4096)
+[2020.12.09-18.53.03:445][252]LogTexture: Display: Building textures: T_Win_Post_A_N_normals (BC5, 4096X4096)
+[2020.12.09-18.53.03:445][252]LogTexture: Display: Building textures: T_Win_Post_A_Diff (AutoDXT, 4096X4096)
+[2020.12.09-18.53.07:691][500]LogMaterial: Display: Missing cached shader map for material M_SolidC, compiling. 
+[2020.12.09-18.53.07:732][500]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2020.12.09-18.53.07:732][500]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.12.09-18.53.07:732][500]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.12.09-18.53.07:732][500]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.12.09-18.53.07:732][500]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.12.09-18.53.07:732][500]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.12.09-18.53.16:909][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2020.12.09-18.53.24:006][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube67)
+[2020.12.09-18.53.26:831][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2020.12.09-18.53.36:815][146]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP2)
+[2020.12.09-18.53.46:290][655]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP)
+[2020.12.09-18.53.49:255][824]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP)
+[2020.12.09-18.53.49:586][842]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.12.09-18.53.51:654][964]Cmd: POLY SELECT MEMORY UNION
+[2020.12.09-18.53.56:113][227]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP2)
+[2020.12.09-18.53.57:214][286]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP2)
+[2020.12.09-18.53.57:294][289]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.12.09-18.54.09:107][980]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP3)
+[2020.12.09-18.54.09:184][983]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.12.09-18.54.19:982][609]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.12.09-18.54.20:804][654]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.12.09-18.54.23:478][812]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP6)
+[2020.12.09-18.54.23:604][817]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.12.09-18.54.35:470][521]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP3)
+[2020.12.09-18.54.35:582][526]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.12.09-18.54.38:658][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube46)
+[2020.12.09-18.54.39:430][749]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP3)
+[2020.12.09-18.54.44:473][ 47]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP4)
+[2020.12.09-18.54.44:808][ 65]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP4)
+[2020.12.09-18.54.46:223][149]LogEditorViewport: Clicking on Actor (LMB): Elevator_BP_C (Elevator_BP4)
+[2020.12.09-18.54.46:272][151]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.12.09-18.54.57:280][784]LogEditorViewport: Clicking on Actor (LMB): LaunchpadBP_C (LaunchpadBP5)
+[2020.12.09-18.55.09:434][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.12.09-18.55.09:560][490]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape755DDD844F89E8FB2EEEF3A13D36D049.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-18.55.09:878][490]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltData43CC11894D84BB2E0B3CB78D6ACC22BE.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-18.55.09:937][490]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-18.55.09:937][490]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-18.55.09:937][490]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-18.55.11:984][607]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-18.55.17:560][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2020.12.09-18.55.20:283][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2020.12.09-18.55.21:120][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2020.12.09-18.55.24:254][309]Cmd: TRANSACTION UNDO
+[2020.12.09-18.55.24:254][309]LogEditorTransaction: Undo Scale Actors
+[2020.12.09-18.55.50:564][825]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-18.55.52:656][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.09-18.55.52:774][939]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/EscapeF4F7A3BE44F5DB9EC5CC7A953587B0FE.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-18.55.53:093][939]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltData2220FFFF41F1977291111BBDA8D50CAA.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-18.55.53:151][939]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-18.55.53:151][939]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-18.55.53:151][939]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-18.56.03:646][531]LogActorFactory: Actor Factory created Cube
+[2020.12.09-18.56.04:704][594]LogActorFactory: Actor Factory created Cube
+[2020.12.09-18.56.18:248][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2020.12.09-18.56.19:738][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube68)
+[2020.12.09-18.56.37:074][444]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-18.56.45:313][923]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-18.56.51:891][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube68)
+[2020.12.09-18.56.52:943][377]Cmd: EDIT COPY
+[2020.12.09-18.56.53:177][391]Cmd: EDIT PASTE
+[2020.12.09-18.57.28:727][490]Cmd: EDIT COPY
+[2020.12.09-18.57.28:961][504]Cmd: EDIT PASTE
+[2020.12.09-18.57.54:990][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2020.12.09-18.57.59:321][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube67)
+[2020.12.09-18.58.02:108][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.12.09-18.58.14:320][171]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-18.58.16:048][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.12.09-18.58.19:052][440]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-18.58.20:378][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.12.09-18.58.23:472][694]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-18.58.30:972][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.12.09-18.58.48:496][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2020.12.09-18.58.52:592][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2020.12.09-18.58.54:341][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2020.12.09-18.58.57:859][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.09-18.58.57:981][681]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape3DEAA2224D866C5126A7B18A31BBCEE8.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-18.58.58:302][681]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltDataF280DCA840C4CBE62812DABDCC9AFEF6.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-18.58.58:359][681]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-18.58.58:359][681]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-18.58.58:359][681]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
+[2020.12.09-18.58.58:661][699]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.09-18.59.05:184][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube67)
+[2020.12.09-18.59.15:433][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.12.09-18.59.15:559][661]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape17BD868D4066DE65E5BF9DA70803C59F.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape.umap'
+[2020.12.09-18.59.15:879][661]LogSavePackage: Moving '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Saved/Escape_BuiltDataE51333144816898BEEC2B3811D5FD997.tmp' to '../../../../../../Users/jules/OneDrive/Documents/GitHub/Escape/Content/ThirdPersonBP/Maps/Escape_BuiltData.uasset'
+[2020.12.09-18.59.15:935][661]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-18.59.15:935][661]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Escape.Escape
+[2020.12.09-18.59.15:935][661]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Escape_BuiltData.Escape_BuiltData
